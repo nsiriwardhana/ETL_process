@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DWBI_Assignment1", "DWBI_Assignment1.dtproj", "{7D27C816-7752-EB7B-B78C-322611C44A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D27C816-7752-EB7B-B78C-322611C44A70}.Development|Default.ActiveCfg = Development
+		{7D27C816-7752-EB7B-B78C-322611C44A70}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C510FEF0-19C7-424C-9687-852CC7E5E558}
+	EndGlobalSection
+EndGlobal
